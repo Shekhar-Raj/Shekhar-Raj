@@ -1,6 +1,8 @@
 # 💫 About Me:
 Passionate about the intersection of data and innovation, I thrive in the world of data science and machine learning. Interested in Cloud Computing also
 
+[![An image of @shekharraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shekharraj)](https://holopin.io/@shekharraj)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raj-shekhar-28a881212) 
@@ -16,4 +18,4 @@ Passionate about the intersection of data and innovation, I thrive in the world 
 [![](https://visitcount.itsvg.in/api?id=Shekhar-Raj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![An image of @shekharraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shekharraj)](https://holopin.io/@shekharraj)
+

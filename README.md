@@ -2,7 +2,8 @@
 Passionate about the intersection of data and innovation, I thrive in the world of data science and machine learning. Interested in Cloud Computing also
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raj-shekhar-28a881212) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/raj-shekhar-28a881212/
+
 
 
 # 💻 Tech Stack:

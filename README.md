@@ -18,7 +18,7 @@
 <hr>
 
 
-<h2 align="center"><img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/621135iFB6E59A903654C88/image-size/original?v=v2&px=-1" width="400px" height="150px" style="border-radius: 10 px;"/> </h2> 
+<h2 align="center">Microsoft Azure Cetifications! 🪶</h2> 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   
   ![AZ-900](https://github.com/user-attachments/assets/3d9dc05f-9940-4761-9867-c53abbac1735)
